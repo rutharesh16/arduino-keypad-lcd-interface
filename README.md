@@ -55,7 +55,7 @@ Provides real-time user input
 Easy to modify for different applications
 
 Helps understand Arduino interfacing
-
+![image](keypad_lcd_interface.jpeg)
 # 9\. Conclusion
 
 This project demonstrates the basic interfacing of an Arduino UNO with a 4×4 keypad and 16×2 LCD. It successfully detects keypad inputs and displays them on the LCD, providing a foundation for developing more advanced Arduino-based control and security systems. 
